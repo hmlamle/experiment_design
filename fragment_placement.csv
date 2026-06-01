@@ -1,0 +1,301 @@
+"fragment_ID","species","date","time","site","depth_m","temp_C","collector","old_tag","intake_reflectance?","status","status_date","tank","treatment","sample timepoint","notes"
+"URB-sid02-052826","ssid",2026-05-28,"na","Dodge Island","na","29","HML","na",NA,NA,NA,1,"+4C","TP2",NA
+"URB-sid28-052826","ssid",2026-05-28,"na","Dodge Island","2.4","29","VRR","na",NA,NA,NA,1,"+4C","TP1",NA
+"URB-sid18-052826","ssid",2026-05-28,"na","Dodge Island","1.6","29","HML","na",NA,NA,NA,1,"+4C","TP3",NA
+"URB-sid30-052826","ssid",2026-05-28,"na","Dodge Island","2.2999999999999998","29","VRR","na",NA,NA,NA,2,"control","TP1",NA
+"URB-sid05-052826","ssid",2026-05-28,"na","Dodge Island","2.5","29","VRR","na",NA,NA,NA,2,"control","TP1",NA
+"URB-sid36-052826","ssid",2026-05-28,"na","Dodge Island","2.9","29","VRR","na",NA,NA,NA,2,"control","TP3",NA
+"URB-sid31-052826","ssid",2026-05-28,"na","Dodge Island","2.8","29","HML","na",NA,NA,NA,3,"+2C","TP5",NA
+"URB-sid40-052826","ssid",2026-05-28,"na","Dodge Island","3.3","29","VRR","na",NA,NA,NA,3,"+2C","TP4",NA
+"URB-sid08-052826","ssid",2026-05-28,"na","Dodge Island","3.8","29","HML","na",NA,NA,NA,3,"+2C","TP2",NA
+"URB-sid37-052826","ssid",2026-05-28,"na","Dodge Island","3","29","HML","na","MISSING",NA,NA,4,"+4C","TP4","split in 2"
+"URB-sid20-052826","ssid",2026-05-28,"na","Dodge Island","2.9","29","VRR","na",NA,NA,NA,4,"+4C","TP5",NA
+"URB-sid34-052826","ssid",2026-05-28,"na","Dodge Island","2.8","29","HML","na",NA,NA,NA,4,"+4C","TP5",NA
+"URB-sid27-052826","ssid",2026-05-28,"na","Dodge Island","2.2999999999999998","29","VRR","na",NA,NA,NA,5,"control","TP4",NA
+"URB-sid06-052826","ssid",2026-05-28,"na","Dodge Island","3","29","VRR","na",NA,NA,NA,5,"control","TP2",NA
+"URB-sid14-052826","ssid",2026-05-28,"na","Dodge Island","2.6","29","VRR","na",NA,NA,NA,5,"control","TP1",NA
+"URB-sid11-052826","ssid",2026-05-28,"na","Dodge Island","3.2","29","VRR","na",NA,NA,NA,6,"+2C","TP4",NA
+"URB-sid07-052826","ssid",2026-05-28,"na","Dodge Island","3.3","29","HML","na",NA,NA,NA,6,"+2C","TP3",NA
+"URB-sid38-052826","ssid",2026-05-28,"na","Dodge Island","3.8","29","HML","na",NA,NA,NA,6,"+2C","TP5",NA
+"URB-sid15-052826","ssid",2026-05-28,"na","Dodge Island","2.9","29","VRR","na",NA,NA,NA,7,"control","TP5",NA
+"URB-sid04-052826","ssid",2026-05-28,"na","Dodge Island","na","29","HML","na",NA,NA,NA,7,"control","TP2",NA
+"URB-sid32-052826","ssid",2026-05-28,"na","Dodge Island","1.9","29","HML","na",NA,NA,NA,7,"control","TP2",NA
+"URB-sid17-052826","ssid",2026-05-28,"na","Dodge Island","3","29","HML","na",NA,NA,NA,8,"+4C","TP1",NA
+"URB-sid24-052826","ssid",2026-05-28,"na","Dodge Island","2.5","29","VRR","na",NA,NA,NA,8,"+4C","TP4",NA
+"URB-sid13-052826","ssid",2026-05-28,"na","Dodge Island","2.9","29","VRR","na",NA,NA,NA,8,"+4C","TP3",NA
+"URB-sid21-052826","ssid",2026-05-28,"na","Dodge Island","2.5","29","HML","na",NA,NA,NA,9,"+2C","TP3",NA
+"URB-sid23-052826","ssid",2026-05-28,"na","Dodge Island","2.6","29","HML","na",NA,NA,NA,9,"+2C","TP3",NA
+"URB-sid35-052826","ssid",2026-05-28,"na","Dodge Island","3.2","29","VRR","na",NA,NA,NA,9,"+2C","TP1",NA
+"URB-sid10-052826","ssid",2026-05-28,"na","Dodge Island","2.2999999999999998","29","VRR","na",NA,NA,NA,10,"control","TP4",NA
+"URB-sid33-052826","ssid",2026-05-28,"na","Dodge Island","3","29","HML","na",NA,NA,NA,10,"control","TP1",NA
+"URB-sid25-052826","ssid",2026-05-28,"na","Dodge Island","2.2000000000000002","29","VRR","na",NA,NA,NA,10,"control","TP2",NA
+"URB-sid26-052826","ssid",2026-05-28,"na","Dodge Island","3","29","HML","na",NA,NA,NA,11,"+4C","TP1",NA
+"URB-sid22-052826","ssid",2026-05-28,"na","Dodge Island","na","29","HML","na",NA,NA,NA,11,"+4C","TP5",NA
+"URB-sid39-052826","ssid",2026-05-28,"na","Dodge Island","2.2999999999999998","29","VRR","na",NA,NA,NA,11,"+4C","TP5",NA
+"URB-sid16-052826","ssid",2026-05-28,"na","Dodge Island","2.4","29","HML","na",NA,NA,NA,12,"+2C","TP2",NA
+"URB-sid03-052826","ssid",2026-05-28,"na","Dodge Island","2.5","29","HML","na",NA,NA,NA,12,"+2C","TP4",NA
+"URB-sid19-052826","ssid",2026-05-28,"na","Dodge Island","3.3","29","HML","na",NA,NA,NA,12,"+2C","TP3",NA
+"cave-ssid20-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","26","NIR","na",NA,"H",2026-05-26,4,"+4C","TP4",NA
+"cave-ssid04-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.7","26","NIR","na",NA,"H",2026-05-26,12,"+2C","TP3",NA
+"cave-ssid16-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.4","25","HML","na",NA,"H",2026-05-26,7,"control","TP5",NA
+"cave-ssid19-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.9","26","NIR","na",NA,"H",2026-05-26,11,"+4C","TP1",NA
+"cave-ssid03-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1","26","NIR","na",NA,"P",2026-05-26,5,"control","TP3",NA
+"cave-ssid28-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.7","25","HML","na",NA,"H",2026-05-26,6,"+2C","TP5",NA
+"cave-ssid21-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.7","26","NIR","na",NA,"H",2026-05-26,9,"+2C","TP3",NA
+"cave-ssid07-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1999999999999993","25","HML","na",NA,"H",2026-05-26,8,"+4C","TP2",NA
+"cave-ssid12-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","26","NIR","na",NA,"H",2026-05-26,2,"control","TP4",NA
+"cave-ssid09-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.5","25","HML","na",NA,"PB",2026-05-26,1,"+4C","TP3",NA
+"cave-ssid22-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.6","25","HML","na",NA,"H",2026-05-26,3,"+2C","TP1",NA
+"cave-ssid17-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.9","26","NIR","na",NA,"H",2026-05-26,10,"control","TP4",NA
+"cave-ssid13-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","25","HML","na",NA,"H",2026-05-26,4,"+4C","TP2",NA
+"cave-ssid14-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1","25","HML","na",NA,"H",2026-05-26,12,"+2C","TP2","partially bleached, under ledge when collected"
+"cave-ssid10-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.6","25","HML","na",NA,"H",2026-05-26,7,"control","TP5",NA
+"cave-ssid30-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.9","25","HML","na",NA,"H",2026-05-26,11,"+4C","TP2",NA
+"cave-ssid08-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","26","NIR","na",NA,"H",2026-05-26,5,"control","TP3",NA
+"cave-ssid06-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1999999999999993","25","HML","na",NA,"H",2026-05-26,6,"+2C","TP4",NA
+"cave-ssid05-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","26","NIR","na",NA,"H",2026-05-26,9,"+2C","TP5",NA
+"cave-ssid26-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8","26","NIR","na",NA,"H",2026-05-26,8,"+4C","TP5",NA
+"cave-ssid02-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1","26","NIR","na",NA,"H",2026-05-26,2,"control","TP4",NA
+"cave-ssid18-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1999999999999993","26","NIR","na",NA,"H",2026-05-26,1,"+4C","TP4",NA
+"cave-ssid15-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1999999999999993","25","HML","na",NA,"PD",2026-05-26,3,"+2C","TP2",NA
+"cave-ssid25-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.2","25","HML","na",NA,"H",2026-05-26,10,"control","TP2",NA
+"cave-ssid23-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.4","25","HML","na",NA,"H",2026-05-26,4,"+4C","TP1",NA
+"cave-ssid24-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.8","26","NIR","na",NA,"PB",2026-05-26,12,"+2C","TP5",NA
+"cave-ssid01-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","8.1","26","NIR","na",NA,"H",2026-05-26,7,"control","TP3",NA
+"cave-ssid11-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.2","25","HML","na",NA,"H",2026-05-26,11,"+4C","TP1",NA
+"cave-ssid29-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.7","26","NIR","na",NA,"D",2026-05-26,5,"control","TP1",NA
+"DB-sid15-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,3,"+2C","TP1",NA
+"DB-sid35-051426","ssid",2026-05-14,"na","Dania","9.1","27","ROS","na",NA,"P",2026-05-26,8,"+4C","TP1",NA
+"DB-sid16-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,2,"control","TP1",NA
+"DB-sid37-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,11,"+4C","TP1",NA
+"DB-sid18-051426","ssid",2026-05-14,"na","Dania","9","27","HML","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"DB-sid30-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,7,"control","TP4",NA
+"DB-sid11-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,12,"+2C","TP3",NA
+"DB-sid38-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,1,"+4C","TP2",NA
+"DB-sid27-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"P",2026-05-26,9,"+2C","TP2",NA
+"DB-sid14-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"P",2026-05-26,5,"control","TP4",NA
+"DB-sid06-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,4,"+4C","TP3",NA
+"DB-sid20-051426","ssid",2026-05-14,"na","Dania","9","27","HML","na",NA,"H",2026-05-26,3,"+2C","TP3",NA
+"DB-sid24-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,8,"+4C","TP4",NA
+"DB-sid12-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,2,"control","TP4",NA
+"DB-sid33-051426","ssid",2026-05-14,"na","Dania","9","27","HML","na",NA,"P",2026-05-26,11,"+4C","TP4",NA
+"DB-sid21-051426","ssid",2026-05-14,"na","Dania","9","27","HML","na",NA,"P",2026-05-26,10,"control","TP2",NA
+"DB-sid28-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,7,"control","TP1",NA
+"DB-sid17-051426","ssid",2026-05-14,"na","Dania","8.8000000000000007","27","HML","na",NA,"P",2026-05-26,6,"+2C","TP5",NA
+"DB-sid25-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,12,"+2C","TP2",NA
+"DB-sid02-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"H",2026-05-26,1,"+4C","TP1",NA
+"DB-sid07-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,9,"+2C","TP3",NA
+"DB-sid19-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,5,"control","TP3",NA
+"DB-sid08-051426","ssid",2026-05-14,"na","Dania","8.8000000000000007","27","HML","na",NA,"H",2026-05-26,4,"+4C","TP3",NA
+"DB-sid26-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,3,"+2C","TP5",NA
+"DB-sid31-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"H",2026-05-26,8,"+4C","TP2",NA
+"DB-sid01-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,2,"control","TP4",NA
+"DB-sid22-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,11,"+4C","TP4",NA
+"DB-sid29-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,10,"control","TP5",NA
+"DB-sid09-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,7,"control","TP2",NA
+"DB-sid03-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"P",2026-05-26,6,"+2C","TP5",NA
+"DB-sid23-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"PP",2026-05-26,12,"+2C","TP5",NA
+"DB-sid04-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"P",2026-05-26,1,"+4C","TP5",NA
+"DB-sid05-051426","ssid",2026-05-14,"na","Dania","9.1","27","HML","na",NA,"P",2026-05-26,9,"+2C","TP2",NA
+"EMERALD-sid24-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"P",2026-05-26,3,"+2C","TP3",NA
+"EMERALD-sid30-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"P",2026-05-26,2,"control","TP5",NA
+"EMERALD-sid29-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,10,"control","TP5",NA
+"EMERALD-sid02-052026","ssid",2026-05-20,"na","Emerald Reef",NA,"28",NA,"na",NA,"P",2026-05-26,1,"+4C","TP3",NA
+"EMERALD-sid13-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","HML","na",NA,"P",2026-05-26,7,"control","TP5",NA
+"EMERALD-sid14-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","HML","na",NA,"P",2026-05-26,11,"+4C","TP2",NA
+"EMERALD-sid09-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","HML","na",NA,"P",2026-05-26,9,"+2C","TP4",NA
+"EMERALD-sid28-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,8,"+4C","TP2",NA
+"EMERALD-sid10-052026","ssid",2026-05-20,"na","Emerald Reef","8","28","HML","na",NA,"P",2026-05-26,12,"+2C","TP2",NA
+"EMERALD-sid33-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,5,"control","TP2",NA
+"EMERALD-sid17-052026","ssid",2026-05-20,"na","Emerald Reef","8","28","HML","na",NA,"P",2026-05-26,4,"+4C","TP5",NA
+"EMERALD-sid18-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"H",2026-05-26,3,"+2C","TP1","tissue loss during collection"
+"EMERALD-sid01-052026","ssid",2026-05-20,"na","Emerald Reef","7.7","28","HML","na",NA,"P",2026-05-26,2,"control","TP1",NA
+"EMERALD-sid37-052026","ssid",2026-05-20,"na","Emerald Reef","7.8","28","HML","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"EMERALD-sid22-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"P",2026-05-26,1,"+4C","TP1",NA
+"EMERALD-sid21-052026","ssid",2026-05-20,"na","Emerald Reef","7.3","28","VRR","na",NA,"H",2026-05-26,7,"control","TP4",NA
+"EMERALD-sid11-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","HML","na",NA,"P",2026-05-26,11,"+4C","TP3",NA
+"EMERALD-sid25-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,9,"+2C","TP1",NA
+"EMERALD-sid03-052026","ssid",2026-05-20,"na","Emerald Reef","7.8","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP4",NA
+"EMERALD-sid19-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"H",2026-05-26,8,"+4C","TP2",NA
+"EMERALD-sid34-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP4",NA
+"EMERALD-sid16-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","HML","na",NA,"P",2026-05-26,5,"control","TP1",NA
+"EMERALD-sid15-052026","ssid",2026-05-20,"na","Emerald Reef","7.4","28","HML","na",NA,"P",2026-05-26,4,"+4C","TP2",NA
+"EMERALD-sid31-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"P",2026-05-26,3,"+2C","TP2",NA
+"EMERALD-sid05-052026","ssid",2026-05-20,"na","Emerald Reef","8","28","HML","na",NA,"P",2026-05-26,2,"control","TP4",NA
+"EMERALD-sid06-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","HML","na",NA,"P",2026-05-26,10,"control","TP3",NA
+"EMERALD-sid08-052026","ssid",2026-05-20,"na","Emerald Reef","7.8","28","HML","na",NA,"P",2026-05-26,1,"+4C","TP1",NA
+"EMERALD-sid12-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","HML","na",NA,"P",2026-05-26,7,"control","TP3",NA
+"EMERALD-sid20-052026","ssid",2026-05-20,"na","Emerald Reef","7.7","28","HML","na",NA,"P",2026-05-26,11,"+4C","TP5",NA
+"EMERALD-sid27-052026","ssid",2026-05-20,"na","Emerald Reef","7.3","28","VRR","na",NA,"P",2026-05-26,9,"+2C","TP3",NA
+"EMERALD-sid04-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP5",NA
+"EMERALD-sid07-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","HML","na",NA,"P",2026-05-26,8,"+4C","TP3",NA
+"EMERALD-sid26-052026","ssid",2026-05-20,"na","Emerald Reef","7.6","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP4",NA
+"GRA-sid31-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,5,"control","TP2",NA
+"GRA-sid08-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,11,"+4C","TP1",NA
+"GRA-sid15-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,3,"+2C","TP2",NA
+"GRA-sid14-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,1,"+4C","TP5","two labelled 14? Determine which is which"
+"GRA-sid14-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,10,"control","TP2","two labelled 14? Determine which is which"
+"GRA-sid35-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,12,"+2C","TP3",NA
+"GRA-sid03-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,7,"control","TP1",NA
+"GRA-sid01-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"H",2026-05-26,9,"+2C","TP3",NA
+"GRA-sid30-051426","ssid",2026-05-14,"na","Graceland","9.4","27","HML","na",NA,"P",2026-05-26,4,"+4C","TP3",NA
+"GRA-sid07-051426","ssid",2026-05-14,"na","Graceland","9.5","27","HML","na",NA,"P",2026-05-26,2,"control","TP4",NA
+"GRA-sid05-051426","ssid",2026-05-14,"na","Graceland","9.5","27","HML","na",NA,"H",2026-05-26,8,"+4C","TP5",NA
+"GRA-sid33-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,5,"control","TP4",NA
+"GRA-sid18-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,11,"+4C","TP1",NA
+"GRA-sid22-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,3,"+2C","TP2",NA
+"GRA-sid32-051426","ssid",2026-05-14,"na","Graceland",NA,"27","ROS","na",NA,"P",2026-05-26,6,"+2C","TP4",NA
+"GRA-sid19-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,1,"+4C","TP5",NA
+"GRA-sid16-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"GRA-sid21-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,12,"+2C","TP5",NA
+"GRA-sid06-051426","ssid",2026-05-14,"na","Graceland",NA,"27",NA,"na",NA,"H",2026-05-26,7,"control","TP4",NA
+"GRA-sid09-051426","ssid",2026-05-14,"na","Graceland","9.5","27","HML","na",NA,"P",2026-05-26,9,"+2C","TP1",NA
+"GRA-sid27-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,4,"+4C","TP3",NA
+"GRA-sid25-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,2,"control","TP2",NA
+"GRA-sid28-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,8,"+4C","TP4",NA
+"GRA-sid23-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"H",2026-05-26,5,"control","TP3",NA
+"GRA-sid20-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,11,"+4C","TP5",NA
+"GRA-sid24-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,3,"+2C","TP2",NA
+"GRA-sid11-051426","ssid",2026-05-14,"na","Graceland","na","27","HML","na",NA,"P",2026-05-26,6,"+2C","TP3",NA
+"HB-sid19-051426","ssid",2026-05-14,"na","Hollywood","7.9","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP3",NA
+"HB-sid23-051426","ssid",2026-05-14,"na","Hollywood","7.8","28","HML","na",NA,"P",2026-05-26,4,"+4C","TP2",NA
+"HB-sid05-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"P",2026-05-26,9,"+2C","TP4",NA
+"HB-sid20-051426","ssid",2026-05-14,"na","Hollywood","8","28","HML","na",NA,"H",2026-05-26,12,"+2C","TP5",NA
+"HB-sid12-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"H",2026-05-26,3,"+2C","TP1",NA
+"HB-sid01-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"H",2026-05-26,1,"+4C","TP3",NA
+"HB-sid36-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"H",2026-05-26,11,"+4C","TP5",NA
+"HB-sid07-051426","ssid",2026-05-14,"na","Hollywood","7.4","28","HML","na",NA,"P",2026-05-26,8,"+4C","TP2",NA
+"HB-sid04-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"H",2026-05-26,7,"control","TP2",NA
+"HB-sid08-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"P",2026-05-26,2,"control","TP1",NA
+"HB-sid16-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"P",2026-05-26,10,"control","TP4",NA
+"HB-sid02-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"P",2026-05-26,5,"control","TP3",NA
+"HB-sid11-051426","ssid",2026-05-14,"na","Hollywood","na","28","ROS","na",NA,"H",2026-05-26,6,"+2C","TP1",NA
+"JR-sid13-052026","ssid",2026-05-20,"na","JR's Ledge","7.9","28","VRR","na",NA,"P",2026-05-26,4,"+4C","TP3",NA
+"JR-sid34-052026","ssid",2026-05-20,"na","JR's Ledge","7.4","28","HML","na",NA,"H",2026-05-26,12,"+2C","TP3",NA
+"JR-sid04-052026","ssid",2026-05-20,"na","JR's Ledge","8.1999999999999993","28","VRR","na",NA,"P",2026-05-26,6,"+2C","TP1",NA
+"JR-sid24-052026","ssid",2026-05-20,"na","JR's Ledge","7.9","28","VRR","na",NA,"H",2026-05-26,1,"+4C","TP1",NA
+"JR-sid05-052026","ssid",2026-05-20,"na","JR's Ledge","7.5","28","HML","na",NA,"P",2026-05-26,2,"control","TP5",NA
+"JR-sid07-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"H",2026-05-26,9,"+2C","TP3",NA
+"JR-sid08-052026","ssid",2026-05-20,"na","JR's Ledge","7.9","28","VRR","na",NA,"P",2026-05-26,5,"control","TP3",NA
+"JR-sid28-052026","ssid",2026-05-20,"na","JR's Ledge","7.8","28","HML","na",NA,"H",2026-05-26,3,"+2C","TP1",NA
+"JR-sid09-052026","ssid",2026-05-20,"na","JR's Ledge","7.6","28","VRR","na",NA,"H",2026-05-26,8,"+4C","TP3",NA
+"JR-sid38-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,10,"control","TP4",NA
+"JR-sid36-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,7,"control","TP2",NA
+"JR-sid21-052026","ssid",2026-05-20,"na","JR's Ledge",NA,NA,NA,"na",NA,"P",2026-05-26,4,"+4C","TP2",NA
+"JR-sid15-052026","ssid",2026-05-20,"na","JR's Ledge","7.9","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP5",NA
+"JR-sid12-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP4",NA
+"JR-sid29-052026","ssid",2026-05-20,"na","JR's Ledge","7.4","28","HML","na",NA,"P",2026-05-26,1,"+4C","TP4",NA
+"JR-sid17-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,11,"+4C","TP4",NA
+"JR-sid20-052026","ssid",2026-05-20,"na","JR's Ledge","8.1999999999999993","28","VRR","na",NA,"P",2026-05-26,2,"control","TP4",NA
+"JR-sid06-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"H",2026-05-26,9,"+2C","TP3",NA
+"JR-sid27-052026","ssid",2026-05-20,"na","JR's Ledge","7.6","28","HML","na",NA,"H",2026-05-26,5,"control","TP2",NA
+"JR-sid19-052026","ssid",2026-05-20,"na","JR's Ledge","7.8","28","HML","na",NA,"P",2026-05-26,3,"+2C","TP5","split in 2"
+"JR-sid22-052026","ssid",2026-05-20,"na","JR's Ledge","7.5","28","HML","na",NA,"H",2026-05-26,8,"+4C","TP5",NA
+"JR-sid35-052026","ssid",2026-05-20,"na","JR's Ledge","8.1999999999999993","28","VRR","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"JR-sid26-052026","ssid",2026-05-20,"na","JR's Ledge","7.6","28","VRR","na",NA,"P",2026-05-26,7,"control","TP3",NA
+"JR-sid02-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"H",2026-05-26,4,"+4C","TP5",NA
+"JR-sid11-052026","ssid",2026-05-20,"na","JR's Ledge","7.9","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP2",NA
+"JR-sid10-052026","ssid",2026-05-20,"na","JR's Ledge","7.8","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP5",NA
+"JR-sid33-052026","ssid",2026-05-20,"na","JR's Ledge","7.6","28","VRR","na",NA,"H",2026-05-26,1,"+4C","TP2",NA
+"JR-sid25-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"H",2026-05-26,11,"+4C","TP2",NA
+"JR-sid37-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,2,"control","TP1","split in 2"
+"JR-sid01-052026","ssid",2026-05-20,"na","JR's Ledge","7.3","28","VRR","na",NA,"P",2026-05-26,9,"+2C","TP2",NA
+"JR-sid32-052026","ssid",2026-05-20,"na","JR's Ledge","7.2","28","HML","na",NA,"P",2026-05-26,5,"control","TP4",NA
+"JR-sid03-052026","ssid",2026-05-20,"na","JR's Ledge","8.1999999999999993","28","VRR","na",NA,"P",2026-05-26,3,"+2C","TP1",NA
+"JR-sid23-052026","ssid",2026-05-20,"na","JR's Ledge","8","28","HML","na",NA,"P",2026-05-26,8,"+4C","TP5",NA
+"JR-sid30-052026","ssid",2026-05-20,"na","JR's Ledge","7.4","28","HML","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"REV-sid02-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"H",2026-05-26,11,"+4C","TP4",NA
+"REV-sid12-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,9,"+2C","TP1",NA
+"REV-sid18-052026","ssid",2026-05-20,"na","Reverse Reef","9.1999999999999993","28","VRR","na",NA,"P",2026-05-26,6,"+2C","TP3",NA
+"REV-sid15-052026","ssid",2026-05-20,"na","Reverse Reef","9.6","28","VRR","na",NA,"P",2026-05-26,7,"control","TP1",NA
+"REV-sid28-052026","ssid",2026-05-20,"na","Reverse Reef","9.1999999999999993","28","VRR","na",NA,"P",2026-05-26,2,"control","TP1",NA
+"REV-sid20-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"H",2026-05-26,4,"+4C","TP5",NA
+"REV-sid36-052026","ssid",2026-05-20,"na","Reverse Reef","8.4","28","HML","na",NA,"P",2026-05-26,8,"+4C","TP5",NA
+"REV-sid16-052026","ssid",2026-05-20,"na","Reverse Reef","9.6999999999999993","28","VRR","na",NA,"P",2026-05-26,5,"control","TP2",NA
+"REV-sid14-052026","ssid",2026-05-20,"na","Reverse Reef","8.6","28","HML","na",NA,"P",2026-05-26,3,"+2C","TP3",NA
+"REV-sid09-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"P",2026-05-26,1,"+4C","TP4",NA
+"REV-sid23-052026","ssid",2026-05-20,"na","Reverse Reef","9.3000000000000007","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP2",NA
+"REV-sid01-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"P",2026-05-26,11,"+4C","TP1",NA
+"REV-sid33-052026","ssid",2026-05-20,"na","Reverse Reef","9.3000000000000007","28","VRR","na",NA,"P",2026-05-26,9,"+2C","TP3",NA
+"REV-sid22-052026","ssid",2026-05-20,"na","Reverse Reef","8.5","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP4",NA
+"REV-sid30-052026","ssid",2026-05-20,"na","Reverse Reef","9.6999999999999993","28","VRR","na",NA,"P",2026-05-26,7,"control","TP4",NA
+"REV-sid24-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","HML","na",NA,"P",2026-05-26,10,"control","TP5",NA
+"REV-sid07-052026","ssid",2026-05-20,"na","Reverse Reef","9.3000000000000007","28","VRR","na",NA,"P",2026-05-26,2,"control","TP3","some tissue removed during collection"
+"REV-sid13-052026","ssid",2026-05-20,"na","Reverse Reef","8.6","28","HML","na",NA,"P",2026-05-26,4,"+4C","TP5",NA
+"REV-sid08-052026","ssid",2026-05-20,"na","Reverse Reef","9.3000000000000007","28","VRR","na",NA,"P",2026-05-26,8,"+4C","TP4","split in 2"
+"REV-sid35-052026","ssid",2026-05-20,"na","Reverse Reef","na","28","na","na",NA,"P",2026-05-26,5,"control","TP2",NA
+"REV-sid04-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"P",2026-05-26,3,"+2C","TP2",NA
+"REV-sid27-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,1,"+4C","TP2",NA
+"REV-sid32-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,12,"+2C","TP5",NA
+"REV-sid26-052026","ssid",2026-05-20,"na","Reverse Reef","9","28","VRR","na",NA,"P",2026-05-26,11,"+4C","TP2",NA
+"REV-sid10-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,9,"+2C","TP1",NA
+"REV-sid11-052026","ssid",2026-05-20,"na","Reverse Reef","9.1999999999999993","28","HML","na",NA,"P",2026-05-26,6,"+2C","TP2",NA
+"REV-sid34-052026","ssid",2026-05-20,"na","Reverse Reef","9.4","28","VRR","na",NA,"P",2026-05-26,7,"control","TP3",NA
+"REV-sid17-052026","ssid",2026-05-20,"na","Reverse Reef","9.1","28","HML","na",NA,"P",2026-05-26,10,"control","TP1",NA
+"REV-sid03-052026","ssid",2026-05-20,"na","Reverse Reef","9.3000000000000007","28","VRR","na",NA,"P",2026-05-26,2,"control","TP4",NA
+"REV-sid25-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,4,"+4C","TP5",NA
+"REV-sid21-052026","ssid",2026-05-20,"na","Reverse Reef","8.4","28","HML","na",NA,"P",2026-05-26,8,"+4C","TP1",NA
+"sc-ssid08-04182026","ssid",2026-04-18,"na","South Canyon","5.2","26","HML","na",NA,"H",2026-05-26,3,"+2C","TP3",NA
+"sc-ssid02-04182026","ssid",2026-04-18,"na","South Canyon","5","27","NIR","na",NA,"H",2026-05-26,4,"+4C","TP4",NA
+"sc-ssid01-04182026","ssid",2026-04-18,"na","South Canyon","5.2","27","NIR","na",NA,"H",2026-05-26,8,"+4C","TP5",NA
+"sc-ssid17-04182026","ssid",2026-04-18,"na","South Canyon","5.3","26","HML","na",NA,"H",2026-05-26,6,"+2C","TP1",NA
+"sc-ssid12-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","27","NIR","na",NA,"H",2026-05-26,10,"control","TP4",NA
+"sc-ssid22-04182026","ssid",2026-04-18,"na","South Canyon","5.3","26","HML","na",NA,"H",2026-05-26,5,"control","TP2",NA
+"sc-ssid16-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","27","NIR","na",NA,"H",2026-05-26,9,"+2C","TP2",NA
+"sc-ssid24-04182026","ssid",2026-04-18,"na","South Canyon","5.2","26","HML","na",NA,"H",2026-05-26,11,"+4C","TP2",NA
+"sc-ssid25-04182026","ssid",2026-04-18,"na","South Canyon","4.9000000000000004","26","HML","na",NA,"H",2026-05-26,12,"+2C","TP3",NA
+"sc-ssid23-04182026","ssid",2026-04-18,"na","South Canyon","5","26","HML","na",NA,"H",2026-05-26,7,"control","TP1",NA
+"sc-ssid09-04182026","ssid",2026-04-18,"na","South Canyon","na","27","NIR","na",NA,"H",2026-05-26,2,"control","TP2",NA
+"sc-ssid21-04182026","ssid",2026-04-18,"na","South Canyon","5.2","27","NIR","na",NA,"H",2026-05-26,1,"+4C","TP4",NA
+"sc-ssid10-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","26","HML","na",NA,"H",2026-05-26,3,"+2C","TP1","more rectangular frag"
+"sc-ssid04-04182026","ssid",2026-04-18,"na","South Canyon","5.2","27","NIR","na",NA,"H",2026-05-26,4,"+4C","TP4",NA
+"sc-ssid30-04182026","ssid",2026-04-18,"na","South Canyon","5.2","27","NIR","na",NA,"H",2026-05-26,8,"+4C","TP5",NA
+"sc-ssid26-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","26","HML","na",NA,"H",2026-05-26,6,"+2C","TP5",NA
+"sc-ssid28-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","26","HML","na",NA,"H",2026-05-26,10,"control","TP3",NA
+"sc-ssid03-04182026","ssid",2026-04-18,"na","South Canyon","5.2","27","NIR","na",NA,"H",2026-05-26,5,"control","TP4",NA
+"sc-ssid19-04182026","ssid",2026-04-18,"na","South Canyon","4.8","26","HML","na",NA,"H",2026-05-26,9,"+2C","TP5",NA
+"sc-ssid09-04182026","ssid",2026-04-18,"na","South Canyon","na","26","HML","na",NA,"H",2026-05-26,11,"+4C","TP4","more circular frag"
+"sc-ssid07-04182026","ssid",2026-04-18,"na","South Canyon","4.9000000000000004","26","HML","na",NA,"H",2026-05-26,12,"+2C","TP3",NA
+"sc-ssid20-04182026","ssid",2026-04-18,"na","South Canyon","5.2","26","HML","na",NA,"H",2026-05-26,7,"control","TP2","Double sid and rad!"
+"sc-ssid18-04182026","ssid",2026-04-18,"na","South Canyon","5","27","NIR","na",NA,"H",2026-05-26,2,"control","TP3",NA
+"sc-ssid05-04182026","ssid",2026-04-18,"na","South Canyon","5.2","26","HML","na",NA,"H",2026-05-26,1,"+4C","TP5",NA
+"sc-ssid06-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","27","NIR","na",NA,"H",2026-05-26,3,"+2C","TP1",NA
+"sc-ssid13-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","27","NIR","na",NA,"H",2026-05-26,4,"+4C","TP3",NA
+"sc-ssid29-04182026","ssid",2026-04-18,"na","South Canyon","5.3","27","NIR","na",NA,"H",2026-05-26,8,"+4C","TP1",NA
+"sc-ssid14-04182026","ssid",2026-04-18,"na","South Canyon","5","27","NIR","na",NA,"P",2026-05-26,6,"+2C","TP5",NA
+"sc-ssid27-04182026","ssid",2026-04-18,"na","South Canyon","5.0999999999999996","26","HML","na",NA,"H",2026-05-26,10,"control","TP1",NA
+"sc-ssid15-04182026","ssid",2026-04-18,"na","South Canyon","5.3","27","NIR","na",NA,"H",2026-05-26,5,"control","TP2",NA
+"pev5-ssid01-03232026","ssid",2026-03-23,"0.5493055555555556","PEV","11.5","25","HML","PEV5-1",NA,"H",2026-05-26,5,"control","TP5",NA
+"pev5-ssid13-03232026","ssid",2026-03-23,"0.56111111111111112","PEV","11","25","HML","PEV5-13",NA,"H",2026-05-26,9,"+2C","TP1",NA
+"pev5-ssid11-03232026","ssid",2026-03-23,"0.55833333333333335","PEV","11","25","HML","PEV5-11",NA,"H",2026-05-26,11,"+4C","TP3",NA
+"pev5-ssid10-03232026","ssid",2026-03-23,"0.55694444444444446","PEV","11.1","25","HML","PEV5-10",NA,"Discolored",2026-05-26,6,"+2C","TP1",NA
+"pev5-ssid15-03232026","ssid",2026-03-23,"0.56597222222222221","PEV","11","25","HML","PEV5-15",NA,"H",2026-05-26,7,"control","TP5",NA
+"pev13-ssid02-02042026","ssid",2026-02-04,"na","PEV","18.399999999999999","23","HML","PEV13-2",NA,"H",2026-05-26,10,"control","TP1","depth data is averaged from photomosaic depths"
+"pev5-ssid04-03232026","ssid",2026-03-23,"0.55277777777777781","PEV","10.7","25","HML","PEV5-4",NA,"Discolored",2026-05-26,1,"+4C","TP4",NA
+"pev5-ssid08-03232026","ssid",2026-03-23,"0.55555555555555558","PEV","10.8","25","HML","PEV5-8",NA,"PD",2026-05-26,3,"+2C","TP4",NA
+"pev5-ssid14-03232026","ssid",2026-03-23,"0.56388888888888888","PEV","11","25","HML","PEV5-14",NA,"H",2026-05-26,8,"+4C","TP2",NA
+"pev13-ssid09-02042026","ssid",2026-02-04,"na","PEV","18.399999999999999","23","ROS","PEV13-9",NA,"H",2026-05-26,12,"+2C","TP2","depth data is averaged from photomosaic depths"
+"pev13-ssid08-02042026","ssid",2026-02-04,"na","PEV","18.399999999999999","23","ROS","PEV13-8",NA,"H",2026-05-26,4,"+4C","TP2","depth data is averaged from photomosaic depths"
+"pev5-ssid09-03232026","ssid",2026-03-23,"0.55625000000000002","PEV","10.9","25","HML","PEV5-9",NA,"H",2026-05-26,2,"control","TP3",NA
+"pev5-ssid03-03232026","ssid",2026-03-23,"0.55138888888888893","PEV","10.7","25","HML","PEV5-3",NA,"H",2026-05-26,5,"control","TP4",NA
+"pev5-ssid07-03232026","ssid",2026-03-23,"0.55486111111111114","PEV","10.7","25","HML","PEV5-7",NA,"H",2026-05-26,9,"+2C","TP2",NA
+"pev5-ssid06-03232026","ssid",2026-03-23,"0.55347222222222225","PEV","10.6","25","HML","PEV5-6",NA,"H",2026-05-26,11,"+4C","TP3",NA
+"pev5-ssid12-03232026","ssid",2026-03-23,"0.56041666666666667","PEV","11","25","HML","PEV5-12",NA,"H",2026-05-26,6,"+2C","TP5",NA
+"pev5-ssid05-03232026","ssid",2026-03-23,"0.55347222222222225","PEV","10.5","25","HML","PEV5-5",NA,"H",2026-05-26,7,"control","TP3",NA
+"pev5-ssid02-03232026","ssid",2026-03-23,"0.55138888888888893","PEV","11.5","25","HML","PEV5-2",NA,"H",2026-05-26,10,"control","TP1",NA
+"POM3-ssid02-04172026","ssid",2026-04-17,"na","POM","9.3000000000000007","26","NIR","na",NA,"H",2026-05-26,5,"control","TP4",NA
+"POM3-ssid14-04172026","ssid",2026-04-17,"na","POM","9.4","26","NIR","na",NA,"H",2026-05-26,10,"control","TP1",NA
+"POM3-ssid09-04172026","ssid",2026-04-17,"na","POM","9.5","26","NIR","na",NA,"H",2026-05-26,2,"control","TP2",NA
+"POM3-ssid12-04172026","ssid",2026-04-17,"na","POM","9.1","26","NIR","na",NA,"H",2026-05-26,8,"+4C","TP4","same genet as 12b"
+"POM3-ssid16-04172026","ssid",2026-04-17,"na","POM","9.6","26","NIR","na",NA,"H",2026-05-26,1,"+4C","TP1",NA
+"POM3-ssid01-04172026","ssid",2026-04-17,"na","POM","9.6","26","NIR","na",NA,"H",2026-05-26,6,"+2C","TP3",NA
+"POM3-ssid12b-04172026","ssid",2026-04-17,"na","POM","9.1","26","NIR","na",NA,"H",2026-05-26,3,"+2C","TP2","same genet as 12"
+"pom7-ssid04-01302026","ssid",2026-01-30,"na","POM","11.9","23","HML","POM4",NA,"H",2026-05-26,4,"+4C","TP5","depth data is averaged from photomosaic depths"
+"pom1-ssid09-03252026","ssid",2026-03-25,"0.55902777777777779","POM","8.4","25","NIR","na",NA,"PB",2026-05-26,12,"+2C","TP3",NA
+"pom7-ssid05-01302026","ssid",2026-01-30,"na","POM","11.9","23","HML","POM5",NA,"H",2026-05-26,7,"control","TP5","depth data is averaged from photomosaic depths"
+"DB-sid36-051426","ssid",2026-05-14,"na","Dania","na","27","ROS","na",NA,"H",2026-05-26,4,"+4C","TP3",NA
+"EMERALD-sid36-052026","ssid",2026-05-20,"na","Emerald Reef","7.9","28","VRR","na",NA,"P",2026-05-26,12,"+2C","TP4",NA
+"GRA-sid26-051426","ssid",2026-05-14,"na","Graceland","na","27","ROS","na",NA,"P",2026-05-26,2,"control","TP1",NA
+"cave-ssid27-04162026","ssid",2026-04-16,"0.59097222222222223","Caves","7.3","25","HML","na",NA,"H",2026-05-26,1,"+4C","TP1",NA
+"REV-sid19-052026","ssid",2026-05-20,"na","Reverse Reef","8.6999999999999993","28","HML","na",NA,"P",2026-05-26,1,"+4C","TP3",NA
+"JR-sid31-052026","ssid",2026-05-20,"na","JR's Ledge","7.6","28","VRR","na",NA,"P",2026-05-26,9,"+2C","TP4",NA
